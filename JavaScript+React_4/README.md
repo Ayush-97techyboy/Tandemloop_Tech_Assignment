@@ -1,7 +1,3 @@
-# Tandemloop_Tech_Assignment
-Screening Test for Full Stack Developer Position at TANDEMLOOP
-
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
