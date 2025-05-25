@@ -32,7 +32,9 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
-      
+
+      <h2>Total Count of Numbers</h2>
+
       <div style={{ marginTop: "2rem" }}>
         <label>
           Enter numbers (comma separated):{" "}

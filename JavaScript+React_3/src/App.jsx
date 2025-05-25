@@ -12,7 +12,6 @@ function App() {
     setInput(val);
 
     let a;
-    // Accept "a = x", "x", or a number (case-insensitive, allow spaces)
     const match = val.match(/^\s*a\s*=\s*(\d+)\s*$/i);
     if (match) {
       a = parseInt(match[1], 10);
@@ -61,6 +60,8 @@ function App() {
       </div>
       <h1>Vite + React</h1>
 
+      <h2>Pattern_Generator</h2>
+
       <div style={{ marginTop: "2rem" }}>
         <label>
           Enter a number:{" "}
@@ -81,4 +82,3 @@ function App() {
 }
 
 export default App;
-1
