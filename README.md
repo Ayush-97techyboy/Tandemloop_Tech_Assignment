@@ -4,6 +4,13 @@ Screening Test for Full Stack Developer Position at TANDEMLOOP
 
 # React + Vite + Vercel
 
+<h3>Language: JavaScript<br>
+Framework: React<br>
+Deployment Tool: Vite<br>
+Deployed on: Vercel<br>
+IDE: Visual Studio Code<br></h3>
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
